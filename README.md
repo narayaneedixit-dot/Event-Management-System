@@ -115,3 +115,25 @@ python event_management_system.py
 **Narayani Dixit**
 
 B.Tech CSE (Data Science)
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Register Participant
+![Register Participant](screenshots/register_participant.png)
+
+### Create Event
+![Create Event](screenshots/create_event.png)
+
+### View Events
+![View Events](screenshots/view_events.png)
+
+### Search Event
+![Search Event](screenshots/search_event.png)
+
+### Payment
+![Payment](screenshots/payment.png)
+
+### Analytics
+![Analytics](screenshots/analytics.png)
