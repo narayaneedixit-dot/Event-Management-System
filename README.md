@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+![GUI](https://img.shields.io/badge/Tkinter-GUI-orange)
+
 # 🎉 Event Management System
 
 A feature-rich Event Management System built with Python and Tkinter that allows users to manage events, participants, registrations, payments, certificates, and analytics through an interactive graphical interface.
